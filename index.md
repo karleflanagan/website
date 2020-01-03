@@ -13,4 +13,4 @@ My name is **Karle Flanagan** and I am a Senior Instructor in the Department of 
 
 I completed my undergraduate degree in mathematics, with a minor in secondary education. After that, I taught mathematics at a small-town high school before taking a job as a statistician in the insurance industry. After earning a Master’s in Statistics at UIUC, I started teaching Stat 100 and am currently working on course development for other statistics and data science courses using Python. My research interests include online education, optimizing efficiency in office hours for large classes, and undergraduate statistics instruction.
 
-As you can see, I've spent a lot of time at UIUC and am an Illini through and through!
+As you can see, I've spent a lot of time at UIUC and am an Illini through and through! :)
