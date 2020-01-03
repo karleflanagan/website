@@ -2,4 +2,4 @@
 permalink: /media/
 ---
 
-Data Science!
+Coming soon!

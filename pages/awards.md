@@ -2,4 +2,4 @@
 permalink: /awards/
 ---
 
-Data Science!
+Coming soon!
