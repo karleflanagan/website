@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+permalink: /media/
 ---
 
 Data Science!

@@ -1,5 +1,5 @@
 ---
-permalink: /sloths/
+permalink: /contact/
 ---
 
 Data Science!
