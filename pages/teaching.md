@@ -10,12 +10,12 @@ Statistics 100 is an introductory course designed for people who have never take
 
 <h4>Sections</h4>
 
-**Stat 100 In Person L2**<br>
+**Stat 100 In Person (L2)**<br>
 Times: Tuesdays and Thursdays from 11am-12:20pm<br>
 Location: Lincoln Hall Theater<br>
 Course Website: [Stat 100 Website](go.illinois.edu/stat100)<br>
 
-**Stat 100 Online**<br>
+**Stat 100 Online (KF)**<br>
 Times: No assigned meeting times!  Watch videos on Compass 2g.<br>
 Location: No assigned location!  Watch the videos anywhere that works best for you :)<br>
 Course Website: [Stat 100 Website](go.illinois.edu/stat100)<br>
@@ -35,6 +35,6 @@ Location:  No assigned location!<br>
 Course Website:  [Stat 593 Website](stat.illinois.edu/stat-593)<br>
 
 ***
-<h2>Courses Previously Taught<h2>
+<h2>Courses Previously Taught</h2>
 Stat 200 [Fall 2018]<br>
 Course Website: [Stat 200 Website](http://courses.atlas.illinois.edu/fall2019/STAT200/)

@@ -9,8 +9,8 @@ layout: home
 
 Hello and welcome to my website!  
 
-My name is **Karle Flanagan** and I am a Senior Instructor in the Department of Statistics at the University of Illinois at Urbana-Champaign.  Since Spring of 2014, I have had the pleasure of teaching introductory statistics to thousands of students at UIUC.  In addition to teaching, I am also an MS Advisor for the department.
+My name is **Karle Flanagan** and I am a Senior Instructor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC).  Since the spring of 2014, I have had the pleasure of teaching introductory statistics to thousands of students at UIUC.  In addition to teaching, I am also an [MS Advisor](https://stat.illinois.edu/academics/graduate-programs/degree-programs/ms-statistics) for the department.
 
-I completed my undergraduate degree in mathematics, with a minor in secondary education. After that, I taught mathematics at a small-town high school before taking a job as a statistician in the insurance industry. After earning a Master’s in Statistics at UIUC, I started teaching Stat 100 and am currently working on course development for other statistics and data science courses using Python. My research interests include online education, optimizing efficiency in office hours for large classes, and undergraduate statistics instruction.
+I completed my undergraduate degree in mathematics, with a minor in secondary education. After that, I taught mathematics at a small-town high school before taking a job as a statistician in the insurance industry. After earning a Master’s in Statistics at UIUC, I started teaching Stat 100 and am currently working on course development for other statistics courses and data science courses using Python. My research interests include online education, optimizing efficiency in office hours for large classes, and undergraduate statistics education.
 
 As you can see, I've spent a lot of time at UIUC and am an Illini through and through! :)
