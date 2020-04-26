@@ -1,5 +1,0 @@
----
-permalink: /media/
----
-
-Coming soon!

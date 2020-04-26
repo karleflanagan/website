@@ -3,38 +3,21 @@ permalink: /teaching/
 ---
 <center><h1>Teaching</h1></center>
 
-<h2>Spring 2020 Teaching Schedule</h2>
 ***
-<h3>Stat 100</h3>
+<h3>Stat 100 [Website](go.illinois.edu/stat100)</h3>
 Statistics 100 is an introductory course designed for people who have never taken statistics before.  It fulfills the QR 1 (quantitative reasoning) gen-ed requirement. Most of the students who take Stat 100 say they are not "math people", but still do great in the course! Stat 100 is unique because we do not teach statistics by memorizing formulas, instead we make sure students understand the concepts and ideas by using our own data taken in class through surveys, a fill in the blank notebook, pre-lectures videos, and a wide variety of tools to help facilitate learning for a large diverse group of students.
 
-<h4>Sections</h4>
-
-**Stat 100 In Person (L2)**<br>
-Times: Tuesdays and Thursdays from 11am-12:20pm<br>
-Location: Lincoln Hall Theater<br>
-Course Website: [Stat 100 Website](go.illinois.edu/stat100)<br>
-
-**Stat 100 Online (KF)**<br>
-Times: No assigned meeting times!  Watch videos on Compass 2g.<br>
-Location: No assigned location!  Watch the videos anywhere that works best for you :)<br>
-Course Website: [Stat 100 Website](go.illinois.edu/stat100)<br>
 
 ***
-<h3>Stat 107: Data Science DISCOVERY</h3>
+<h3>Stat 107: Data Science DISCOVERY [Website](go.illinois.edu/stat107)</h3>
 Stat/CS/IS 107 is Illinois' first introductory data science gen-ed.  This course shows students the intersection of statistics, computation, and real-world relevance. Students perform hands-on-analysis of real-world datasets using Python to analyze and discover the impact of the data. Throughout each experience, students reflect on the social issues surrounding data analysis such as privacy and design.  This course also fulfills the QR 1 (quantitative reasoning) gen-ed requirement and has no statistics or programming prerequisites. The next big thing at Illinois is Data Science and it starts with DISCOVERY! <br><br>
-Times: Mondays, Wednesdays, and Fridays from 12pm-12:50pm<br>
-Location: 1306 Everitt<br>
-Course Website: [Stat 107 Website](go.illinois.edu/stat107)<br>
+
 
 ***
-<h3>Stat 593: Statistics Internship</h3>
+<h3>Stat 593: Statistics Internship [Website](stat.illinois.edu/stat-593)</h3>
 Stat 593 is the course that graduate students can take while completing a supervised, off-campus experience in a field in which statistics and data science plays an important role. <br><br>
-Times:  No assigned meeting times!<br>
-Location:  No assigned location!<br>
-Course Website:  [Stat 593 Website](stat.illinois.edu/stat-593)<br>
+
 
 ***
 <h2>Courses Previously Taught</h2>
-Stat 200 [Fall 2018]<br>
-Course Website: [Stat 200 Website](http://courses.atlas.illinois.edu/fall2019/STAT200/)
+Stat 200 [Fall 2018](http://courses.atlas.illinois.edu/fall2019/STAT200/)<br>
