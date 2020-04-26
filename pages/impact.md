@@ -61,11 +61,11 @@ Title: Teachers’ Perceptions of Teaching AP Statistics<br/>
 * **Professional development with [Alpha Phi Omega (APO)](https://apo-aa.org/), October 2019**<br/>
 Live Visualization Creation: [Perception of Words Describing Sizes of Groups](http://d7.cs.illinois.edu/projects/apo-group-size/)<br/>
 
-* **Data Science SPRINT with Illinois International's [Global Education & Training](http://get.illinois.edu/), August 2019**
+* **Data Science SPRINT with Illinois International's [Global Education & Training](http://get.illinois.edu/), August 2019**<br/>
 The best of Data Science and Visualization all within 2.5 hours<br/>
 Co-taught with Wade Fagen-Ulmschneider<br/>
 
-* **Monthly membership meeting with Illinois Business Council (BC), April 2019**
+* **Monthly membership meeting with Illinois Business Council (BC), April 2019**<br/>
 Title: Data Science and The University of Illinois
 
 
