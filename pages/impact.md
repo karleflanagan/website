@@ -3,9 +3,8 @@ permalink: /impact/
 ---
 
 <center><h3>Impact</h3></center>
-
-<h4><b>Awards</b></h4>
 ***
+<h4><b>Awards</b></h4>
 
 * **Campus Award for Excellence in Undergraduate Teaching (2019)**<br/>
 Highest-level teaching award at UIUC given by the Office of the Provost.<br/>
@@ -22,9 +21,8 @@ An award given by the Illinois Student government that is the "highest honor tha
 * **List of Teachers Ranked as Excellent by their Students (2014, 2015, 2016, 2017, 2018, 2019)** <br/>
 Center for Innovation in Teaching & Learning at The University of Illinois 
 
-
-<h4><b>Media Coverage</b></h4>
 ***
+<h4><b>Media Coverage</b></h4>
 
 * **Featured in the Global Education & Training News**<br/>
 [https://blogs.illinois.edu/view/7088/804606](https://blogs.illinois.edu/view/7088/804606)
@@ -47,8 +45,8 @@ Center for Innovation in Teaching & Learning at The University of Illinois
 * **Featured in Daily Illini article: "Statistics classes aim to make lectures more accessible to students"**<br/>
 [https://dailyillini.com/news/2015/12/08/statistics-classes-aim-to-make-lectures-more-accessible-to-students/](https://dailyillini.com/news/2015/12/08/statistics-classes-aim-to-make-lectures-more-accessible-to-students/)
 
-<h4><b>Talks</b></h4>
 ***
+<h4><b>Talks</b></h4>
 
 * **UIUC [Annual Faculty Retreat](http://conferences.illinois.edu/facultyretreat/program.html) Presenter, March 2020**<br/>
 Theme: Harnessing the Science of Emotion to Spark Learning<br/>
