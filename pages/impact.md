@@ -64,6 +64,6 @@ The best of Data Science and Visualization all within 2.5 hours<br/>
 Co-taught with Wade Fagen-Ulmschneider<br/>
 
 * **Monthly membership meeting with Illinois Business Council (BC), April 2019**<br/>
-Title: Data Science and The University of Illinois 
+Title: Data Science and The University of Illinois
 
 
