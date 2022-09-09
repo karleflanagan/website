@@ -9,5 +9,5 @@ layout: home
 
 Hello and welcome to my website!  
 
-My name is **Karle Flanagan** and I am a Senior Instructor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC).  
+My name is **Karle Flanagan** and I am a Teaching Assistant Professor in the [Department of Statistics](https://stat.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC).  
 
