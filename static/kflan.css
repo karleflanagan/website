@@ -11,9 +11,7 @@
   max-height: 25vh;
   height: auto;
   object-fit: cover;
-  max-width: 85vw;
-
-  
+  max-width: 85vw; 
 }
 
 .header h1 {
