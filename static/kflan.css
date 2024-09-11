@@ -8,10 +8,10 @@
 }
 
 .header img {
-  max-height: 25vh;
   height: auto;
   object-fit: cover;
   max-width: 85vw; 
+  max-height: 28vh;
 }
 
 .header h1 {
